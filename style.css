@@ -34,7 +34,7 @@
     width: 350px;
     height:140px;
     position: absolute;
-    background-image: url(../images/bg-pattern-card.svg);
+    background-image: url(./images/bg-pattern-card.svg);
     z-index: -98;
 }
 .profile::after{
